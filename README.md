@@ -15,7 +15,7 @@ The Java Calculator is a simple graphical calculator program that provides basic
 
 ## Preview
 
-![Calculator Preview](preview.png)
+![Calculator Preview](lib/preview.png)
 
 ## How to Use
 
